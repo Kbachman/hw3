@@ -14,7 +14,7 @@
 	overflow: scroll;
 }
 #menu {
-	background-image: url(../img/pizza-order.jpg);	
+	background-image: url(../img/food_pizza.jpg);	
 }
 #aboutus {
 	background-image: url(../img/pizza-oven.jpg);
@@ -71,10 +71,10 @@ section {
 
 section li {
         padding: 10px;
-        text-indent: 5%;
         font-family: 'Libre Baskerville', serif;
         color: purple;
-        font-size: 150%
+        font-size: 150%;
+		font-family: 'Arvo', serif;
 }
 section li a {
         text-decoration: none;
@@ -182,7 +182,26 @@ footer {
 .vege-pizzas .pizza-name {
 	color: green;
 }
-
+.drinks-menu h3 {
+	font-family: 'Arvo', serif;	
+	color: red;	
+}
+.desserts-menu h3 {
+	font-family: 'Arvo', serif;	
+	color: red;	
+}
+.drink-name {
+	font-family: 'Arvo', serif;	
+	font-size: 120%;
+	color: brown;
+	margin-left: 5%;
+}
+.dessert-name {
+	margin-left: 5%;
+	font-family: 'Arvo', serif;	
+	font-size: 120%;
+	color: brown;
+}
 
 
 
